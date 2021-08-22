@@ -1,7 +1,6 @@
 # Cryptocurrency Stock Portfolio Tracker
 
 <div>
-<img src="https://media.giphy.com/media/fLsf6e28E70xZGDl6Y/giphy.gif">
 <img src="https://media.giphy.com/media/TE692xS4mkly2ygrWO/giphy.gif">
 <img src="https://media.giphy.com/media/2jMoqnXrPAIlo1aNeH/giphy.gif">
 </div>
